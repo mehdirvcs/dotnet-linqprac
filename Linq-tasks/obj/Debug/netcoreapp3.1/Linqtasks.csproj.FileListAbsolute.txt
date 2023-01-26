@@ -1,0 +1,14 @@
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\obj\Debug\netcoreapp3.1\Linqtasks.csproj.AssemblyReference.cache
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\obj\Debug\netcoreapp3.1\Linqtasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\obj\Debug\netcoreapp3.1\Linqtasks.AssemblyInfoInputs.cache
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\obj\Debug\netcoreapp3.1\Linqtasks.AssemblyInfo.cs
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\obj\Debug\netcoreapp3.1\Linqtasks.csproj.CoreCompileInputs.cache
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\bin\Debug\netcoreapp3.1\Linqtasks.exe
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\bin\Debug\netcoreapp3.1\Linqtasks.deps.json
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\bin\Debug\netcoreapp3.1\Linqtasks.runtimeconfig.json
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\bin\Debug\netcoreapp3.1\Linqtasks.runtimeconfig.dev.json
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\bin\Debug\netcoreapp3.1\Linqtasks.dll
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\bin\Debug\netcoreapp3.1\Linqtasks.pdb
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\obj\Debug\netcoreapp3.1\Linqtasks.dll
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\obj\Debug\netcoreapp3.1\Linqtasks.pdb
+C:\Users\mehdi.imam\source\repos\Linq-tasks\Linq-tasks\obj\Debug\netcoreapp3.1\Linqtasks.genruntimeconfig.cache
